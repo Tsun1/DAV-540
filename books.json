@@ -1,0 +1,6 @@
+[{"BookName": "C++ Primer (5th Edition)", "Authors": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo", "Price": 67.76,
+  "Tags": "C++, Computer Science"},
+{"BookName": "How Computers Work (10th Edition)", "Authors": "Ron White, Timothy Edward Downs", "Price": 40.38,
+  "Tags": "Computer principle"},
+{"BookName": "Python Machine Learning", "Authors": "Sebastian Raschka, Vahid Mirjalili", "Price": 52.46,
+  "Tags": "Python, Computer Science"}]

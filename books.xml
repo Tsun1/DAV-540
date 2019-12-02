@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<booklist>
+
+    <book id="1">
+
+        <BookName>C++ Primer (5th Edition)</BookName>
+
+        <Authors>Stanley B. Lippman , Josée Lajoie , Barbara E. Moo</Authors>
+
+        <Price>67.76</Price>
+
+        <Tags>C++, Computer Science</Tags>
+
+    </book>
+
+    <book id="2">
+
+        <BookName>How Computers Work (10th Edition)</BookName>
+
+        <Authors>Ron White, Timothy Edward Downs</Authors>
+
+        <Price>40.38</Price>
+
+        <Tags>Computer principle</Tags>
+
+    </book>
+
+    <book id="3">
+
+        <BookName>Python Machine Learning</BookName>
+
+        <Authors>Sebastian Raschka , Vahid Mirjalili </Authors>
+
+        <Price>52.46</Price>
+
+        <Tags>Python, Computer Science</Tags>
+
+    </book>
+
+</booklist>
